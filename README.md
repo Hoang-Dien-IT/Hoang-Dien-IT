@@ -1,6 +1,5 @@
 ## <H1> 👋👋👋 Hello, I'm Nguyễn Hoàng Điển 👋👋👋
 
----
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/hoangdien4267) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hoang.ien.428831/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hoang_dien.nhd/) 
 
